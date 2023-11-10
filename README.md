@@ -1,5 +1,7 @@
 # Man-made-objects-segmentation-in-RoI-around-reservoirs
 
+This repository contains the official implementation used to produce the results of the paper "Man-made Object Segmentation around Reservoirs by an End-to-End Two-Phase Deep Learning-Based Workflow", by Nayereh Hamidishad and Roberto Marcondes Cesar Junior.
+
 Proposed Workflow:
 
 
